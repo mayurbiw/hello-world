@@ -1,2 +1,2 @@
 # hello-world
-this repository is created to learn git
+commit check ---- 1 
